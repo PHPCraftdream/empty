@@ -1,0 +1,21 @@
+{
+	"name": "PHPCraftdream/empty",
+	"license": "MIT",
+	"autoload":
+	{
+		"psr-4":
+		{
+			"PHPCraftdream\\empty\\": "src/"
+		}
+	},
+	"authors":
+	[
+		{
+			"name": "PHP Craft Dream"
+		}
+	],
+	"require":
+	{
+		"phpunit/phpunit": "4.*"
+	}
+}
