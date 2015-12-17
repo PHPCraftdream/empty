@@ -1,6 +1,9 @@
 {
 	"name": "phpcraftdream/empty",
 	"license": "MIT",
+	"type": "library",
+	"minimum-stability": "dev",
+	"version": "1.0.0",
 	"autoload":
 	{
 		"psr-4":
