@@ -2,7 +2,6 @@
 	"name": "phpcraftdream/empty",
 	"license": "MIT",
 	"type": "library",
-	"minimum-stability": "dev",
 	"version": "1.0.0-dev",
 	"extra":
 	{
@@ -21,11 +20,15 @@
 	"authors":
 	[
 		{
-			"name": "PHP Craft Dream"
+			"name": "PHPCraftDream"
 		}
 	],
 	"require":
 	{
-		"phpunit/phpunit": "4.*"
+		
+	},
+	"require-dev":
+	{
+		
 	}
 }
