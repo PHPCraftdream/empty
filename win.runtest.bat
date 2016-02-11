@@ -1,1 +1,1 @@
-vendor\bin\phpunit --verbose
+phpunit --verbose
